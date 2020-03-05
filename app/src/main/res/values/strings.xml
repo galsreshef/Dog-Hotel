@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name" translatable="false">Dog Hotel</string>
+    <string name="contact_text">Your opinion is Important, feel free to contact us. We will be at your disposal</string>
+    <string name="end_order_txt">Thank You for registartion, We promise to take care of your dog! we\'ll hope to see your dog again here :)</string>
+    <string name="missing_input">Please fill all the field</string>
+    <string name="welcome">Dog\'s Hotel Boutique</string>
+    <string name="welcome2">Welcome! We have many spa services and treats to offer your dog.\n\nHave a nice time :)</string>
+    <string name="photo_and_video">"Please take a photo of your\nlovely dog!")</string>
+    <string name="register_your_dog">Sign your dog for a spa day</string>
+    <string name="see_ya">See ya\' !</string>
+    <string name="fill_fields">"Please fill all fields"</string>
+    <string name="dog_name">Dog name</string>
+    <string name="dog_age">Dog age</string>
+    <string name="phone_owner">phone</string>
+    <string name="email_owner">Email</string>
+    <string name="add_event_calendar">Add event to calendar</string>
+    <string name="sign">Sign your dog!</string>
+    <string name="opening_hour">Opening hours: 10 am - 8 pm every 60 minutes </string>
+    <string name="hello">Hello</string>
+    <string name="choose_from">choose from those options:</string>
+    <string name="Registration">Registration</string>
+    <string name="Contact">Contact us</string>
+    <string name="Back">Back</string>
+    <string name="thanks_registered">Thank for signing up !</string>
+    <string name="details">Your details:</string>
+    <string name="scroll_down">Scroll down</string>
+    <string name="sms_txt">Here You can contact Us with sms. See ya, Dog\'s Boutique.</string>
+    <string name="whatsapp_txt">Fill the message to contact us with Whatsapp.</string>
+    <string name="entername_main">Enter your name</string>
+    <string name="start">Start</string>
+    <string name="addContact">Add us to your phone list :</string>
+    <string name="sim_lev">Pay attention for openning hours</string>
+    <string name="dont_pick_hour">You didn\'t pick hour</string>
+    <string name="day_and_hour">You didn\'t pick day and hour</string>
+    <string name="didnt_pick_day">You didn\'t pick day</string>
+    <string name="contact_us">Contact us!</string>
+    <string name="sikum_azmana">Confirm order</string>
+    <string name="owner_phone">Owner phone:</string>
+    <string name="owner_email">Owner email:</string>
+    <string name="none" translatable="false" />
+    <string name="sure">Sure???…</string>
+    <string name="are_you_sure">Are you sure to give up your dog\'s treat?</string>
+    <string name="finish">finish</string>
+    <string name="meeting">Dog Hotel booking</string>
+    <string name="your_details">Your details</string>
+</resources>

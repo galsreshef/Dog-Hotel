@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contact_text">דעתכם חשובה לנו,  צרו איתנו קשר. אנו נעמוד לרשותכם.</string>
+    <string name="end_order_txt">הרשמתם התקבלה! אנו מבטיחים להנעים את שהות הכלב שלכם ומקווים לראותו כאן שוב:)</string>
+    <string name="missing_input">נא למלא את כל השדות בבקשה</string>
+    <string name="welcome">מלון ספא בוטיק לכלבים</string>
+    <string name="welcome2">ברוכים הבאים! לנו שירותי ספא ופינוקים רבים להציע לכלביכם.\n\n  :)שיהיה בילוי נעים</string>
+    <string name="register_your_dog">רישום כלביך ליום ספא</string>
+    <string name="see_ya">ניתראה :)</string>
+    <string name="dog_name">שם</string>
+    <string name="dog_age">גיל</string>
+    <string name="phone_owner">טלפון</string>
+    <string name="add_event_calendar">הוסף אירוע ללוח שנה</string>
+    <string name="sign">רישמו את כלביכם!</string>
+    <string name="opening_hour">שעות פתיחה : 10:00–20:00 בכל שעה עגולה</string>
+    <string name="hello">שלום</string>
+    <string name="choose_from">נא לבחור מהאפשרויות הבאות</string>
+    <string name="Registration">הרשמה</string>
+    <string name="Contact">צרו קשר</string>
+    <string name="Back">הקודם</string>
+    <string name="thanks_registered">תודה שנירשמתם!</string>
+    <string name="details">הפרטים שהשארת:</string>
+    <string name="scroll_down">גלול מטה</string>
+    <string name="sms_txt">כאן אתם יכולים לתקשר איתנו באמצעות שליחה הודעה. מאיתנו, מלון בוטיק וספא לכלבים</string>
+    <string name="whatsapp_txt">זו ההודעה לשליחה ליצירת קשר איתנו באמצעות ווצאפ. מאיתנו , מלון בוטיק וספא לכלבים</string>
+    <string name="entername_main">הכנס את שמך</string>
+    <string name="start">התחל בסיור</string>
+    <string name="addContact">הוסף אותנו לאנשי קשר שלך :</string>
+    <string name="sim_lev">שים לב לשעות פתיחה</string>
+    <string name="dont_pick_hour">יש לבחור שעה</string>
+    <string name="day_and_hour">יש לבחור יום ושעה</string>
+    <string name="didnt_pick_day">יש לבחור יום</string>
+    <string name="contact_us">צרו קשר איתנו!</string>
+    <string name="sikum_azmana">סיכום הזמנה</string>
+    <string name="owner_phone">טלפון של הבעלים:</string>
+    <string name="owner_email">אימייל של הבעלים:</string>
+    <string name="sure">בטוח???…</string>
+    <string name="are_you_sure">אתה בטוח שאתה רוצה לוותר על פינוק לכלב שלך?</string>
+    <string name="finish">סיום</string>
+    <string name="photo_and_video">יש לצלם תמונה של כלביכם</string>
+    <string name="fill_fields">יש למלא את כל התאים</string>
+    <string name="email_owner">כתובת אימייל</string>
+    <string name="meeting">מלון ספא בוטיק הזמנה</string>
+    <string name="your_details">פרטי הבעלים</string>
+</resources>
