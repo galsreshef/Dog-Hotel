@@ -13,7 +13,7 @@ gcloud projects add-iam-policy-binding ${PROJECT_ID} --member user:${USER} --rol
 
 sleep 20
 
-gcloud container clusters create-auto gimini-demo --region $REGION
+gcloud container clusters create-auto gemini-demo --region $REGION
 
 kubectl create deployment hello-server --image=us-docker.pkg.dev/google-samples/containers/gke/hello-app:1.0
 
